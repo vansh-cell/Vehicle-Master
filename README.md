@@ -1,1 +1,1 @@
-# Vehicle-Master
+This is a Vehicle Master Management application built with React and Tailwind CSS, designed to manage and persist vehicle data in the browser using LocalStorage. It provides a responsive and user-friendly interface to add, edit, delete, and view vehicle records.
